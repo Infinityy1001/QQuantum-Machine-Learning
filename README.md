@@ -1,1 +1,1 @@
-# QQuantum-Machine-Learning
+# Quantum-Machine-Learning
